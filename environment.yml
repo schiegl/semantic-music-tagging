@@ -1,0 +1,11 @@
+name: semantic-music-tagging
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8.1
+  - torch
+  - torchaudio
+  - sox
+  - pandas
+  - numpy
