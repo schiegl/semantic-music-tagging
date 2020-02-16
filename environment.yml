@@ -9,3 +9,4 @@ dependencies:
   - sox
   - pandas
   - numpy
+  - scikit-learn
